@@ -1,6 +1,6 @@
 {
   "name": "easyinstaller",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An easy way to install apps from a repository",
   "main": "index.js",
   "preferGlobal": "true",
