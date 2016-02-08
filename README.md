@@ -12,7 +12,7 @@ sudo npm install -g easyinstaller
 ```
 
 ### How it works
-Just create a script file named `eifile.sh` eith the app setup instructions in the root of your app directory and thats all
+Just create a script file named `eifile.sh` with the app setup instructions in the root of your app directory and thats all
 
 To install any app just pass the repository url and the path of the folder you want to install it
 ```bash
