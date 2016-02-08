@@ -6,6 +6,11 @@ An easy way to install any app from a repository
 ### Requirements
 - [git](https://git-scm.com/)
 
+### Installation
+```bash
+sudo npm install -g easyinstaller
+```
+
 ### How it works
 Just create a script file named `eifile.sh` eith the app setup instructions in the root of your app directory and thats all
 
