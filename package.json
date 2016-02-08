@@ -1,12 +1,9 @@
 {
   "name": "easyinstaller",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "An easy way to install apps from a repository",
-  "main": "index.js",
+  "main": "lib/index.js",
   "preferGlobal": "true",
-  "directories": {
-    "bin": "./bin"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "shelljs": "^0.6.0"
-  }
+  },
+  "bin": {
+    "easyinstaller": "bin/index.js"
+  },
 }
