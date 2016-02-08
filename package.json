@@ -1,0 +1,14 @@
+{
+  "name": "easyinstaller",
+  "version": "0.0.0",
+  "description": "An easy way to install apps from a repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Silva <dsilva2401@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "shelljs": "^0.6.0"
+  }
+}
