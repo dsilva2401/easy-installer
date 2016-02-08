@@ -19,11 +19,13 @@ To install any app just pass the repository url and the path of the folder you w
 easyinstaller [REPOSITORY-PATH] [FOLDER-PATH]
 ```
 
+### Example
+
 Here one example of a repository with an `eifile.sh`
 
 [`Guppy seed`](https://github.com/dsilva2401/Guppy)
 
-How to install it
+How to install this repo
 ```bash
 easyinstaller "https://github.com/dsilva2401/Guppy.git" myapp
 ```
